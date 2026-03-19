@@ -53,3 +53,7 @@ console.log(ou);
 var not = !true;
 console.log(not);
 
+// Exercícios/Prática
+
+var anoAtual = 2026
+console.log(anoAtual)
